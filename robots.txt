@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://secureportal.github.io/SAKTHI-TRAVELS-/sitemap.xml
